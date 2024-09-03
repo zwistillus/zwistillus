@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there ☁️
+I'm an Artist, Designer, Game developer, Student and more. 
+I told myself I would get cracked at coding this year especially front-end stuff so here I am.
+
 
 <!--
 **zwistillus/zwistillus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
