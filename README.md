@@ -16,6 +16,7 @@ I'm an Artist, Designer and Developer
 ## Contact
 
 Twitter - [@zwistillus](https://twitter.com/home) - sjiang11987@gmail.com
+Instagram - [@artofzwist](https://www.instagram.com/artofzwist/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
