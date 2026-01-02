@@ -1,5 +1,5 @@
 # Hi there ☁️
-I'm an Artist, Futures Swing Trader, Designer, Game developer, and Yea.
+I'm an Artist, Designer and Developer
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
